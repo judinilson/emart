@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Simple E-commerce 
+
+Simple overview of use/purpose.
+
+# Description
+
+This project is created just as practice propose for anyone that is getting started with react.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
